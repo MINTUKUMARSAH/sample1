@@ -1,0 +1,56 @@
+/*Showing Condition*/
+
+Element 3: transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); opacity: 1;
+Element 6: transform: translate3d(380px, 0px, 0px) scale3d(1, 1, 1); opacity: 1;
+Element 9: transform: translate3d(760px, 0px, 0px) scale3d(1, 1, 1); opacity: 1;
+
+=> Scale3d(1,1,1)
+=> Opacity : 1
+=> transform:z :0px
+
+
+/*Not Showing Condition*/
+
+Element 1:transform: translate3d(0px, 0px, 0px) scale3d(0.001, 0.001, 1); opacity: 0;
+Element 2:transform: translate3d(0px, 0px, 0px) scale3d(0.001, 0.001, 1); opacity: 0;
+Element 4:    transform: translate3d(380px, 0px, 0px) scale3d(0.001, 0.001, 1);
+    opacity: 0;
+Element 5:    transform: translate3d(380px, 0px, 0px) scale3d(0.001, 0.001, 1);
+    opacity: 0;
+Element 7:    transform: translate3d(760px, 0px, 0px) scale3d(0.001, 0.001, 1);
+    opacity: 0;
+Element 8:    transform: translate3d(760px, 0px, 0px) scale3d(0.001, 0.001, 1);
+    opacity: 0;
+
+=> Scale3d(0.001,0.001,1)
+=> Opacity : 0
+=> transform:z :0px
+
+
+
+/*All Condition*/
+
+Element 1:transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1);
+    opacity: 1;
+Element 2:transform: translate3d(380px, 0px, 0px) scale3d(1, 1, 1);
+    opacity: 1;
+Element 3:transform: translate3d(760px, 0px, 0px) scale3d(1, 1, 1);
+    opacity: 1;
+Element 4:    transform: translate3d(0px, 498px, 0px) scale3d(1, 1, 1);
+    opacity: 1;
+Element 5:    transform: translate3d(380px, 498px, 0px) scale3d(1, 1, 1);
+    opacity: 1;
+Element 6:transform: translate3d(760px, 498px, 0px) scale3d(1, 1, 1);
+    opacity: 1;
+Element 7:    transform: translate3d(0px, 996px, 0px) scale3d(1, 1, 1);
+    opacity: 1;
+Element 8: transform: translate3d(380px, 996px, 0px) scale3d(1, 1, 1);
+    opacity: 1
+Element 9:transform: translate3d(760px, 996px, 0px) scale3d(1, 1, 1);
+    opacity: 1;
+
+
+=> Scale3d(1,1,1)
+=> Opacity : 1
+=> transform:z :0px
+=> 
