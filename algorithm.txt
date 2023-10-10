@@ -1,56 +1,61 @@
-/*Showing Condition*/
-
-Element 3: transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); opacity: 1;
-Element 6: transform: translate3d(380px, 0px, 0px) scale3d(1, 1, 1); opacity: 1;
-Element 9: transform: translate3d(760px, 0px, 0px) scale3d(1, 1, 1); opacity: 1;
-
-=> Scale3d(1,1,1)
-=> Opacity : 1
-=> transform:z :0px
 
 
-/*Not Showing Condition*/
+-------- Original Message --------
+Subject: ***UNCHECKED*** Fwd: Website को लागि क्याम्पस प्रमुखको भनाई
+Date: 2023-10-10 13:30
+From: info@erasoft.com.np
+To: mintu@erasoft.com.np
 
-Element 1:transform: translate3d(0px, 0px, 0px) scale3d(0.001, 0.001, 1); opacity: 0;
-Element 2:transform: translate3d(0px, 0px, 0px) scale3d(0.001, 0.001, 1); opacity: 0;
-Element 4:    transform: translate3d(380px, 0px, 0px) scale3d(0.001, 0.001, 1);
-    opacity: 0;
-Element 5:    transform: translate3d(380px, 0px, 0px) scale3d(0.001, 0.001, 1);
-    opacity: 0;
-Element 7:    transform: translate3d(760px, 0px, 0px) scale3d(0.001, 0.001, 1);
-    opacity: 0;
-Element 8:    transform: translate3d(760px, 0px, 0px) scale3d(0.001, 0.001, 1);
-    opacity: 0;
+-------- Original Message --------
+Subject: ***UNCHECKED*** Website को लागि क्याम्पस प्रमुखको भनाई
+Date: 2023-10-10 11:53
+From: Sanjib Khadka <khadka.sanjib2015@gmail.com>
+To: OM Khadka <info@erasoft.com.np>
 
-=> Scale3d(0.001,0.001,1)
-=> Opacity : 0
-=> transform:z :0px
+Diktel Multiple Campus (DMC), established in 2037 B.S. affiliated to
+Tribhruvan University, is the first educational leading institute in
+Khotang district. The then educators, social workers, guardians,
+politicians, well-wishers had established it with theirs’ joint
+efforts to offer educational services to the people of Khotang and its
+neighbouring districts. It is a non-profit oriented public campus,
+located at Diktel headquarter of Khotang district.
+
+It is known to all that the development process of the country depends
+with the educational program, plan, policy and system adopted by the
+state. It is therefore, state is making large investment in school
+education and constituent campus rather than public campuses. On the
+otherhand, private campuses make theirs program, plan and implement as
+Theirs own wishes. So, both governmental and private campuses are
+physically and financially far stronger than public campuses. Along
+with the impacts of globalization, the demand of competent human
+resources has been increasing rapidly through-out the world. In this
+context, the need of quality education has been obligatorily realized.
+The government is adopting the policy- how can theoretical knowledge
+be transferred to pedagogical knowledge associating to modern
+technology?  This is a challenging task to accomplish for the public
+campus that are physically and financially poor. Instead of these
+challenges, DMC is heading ahead with the supports and participation
+of stakeholders to achieve the quality education through physical,
+social and economic development. I hope, DMC will get kind support and
+co-operation in the coming days.
+
+Diktel Multiple Campus has been conducting B.A., B.Ed., One year B.Ed.
+and B.B.S. program in Bachelor Level, and M.A. (Nepali and Sociology),
+M.Ed. (Nepali and EPM) in semester system.  In order to offer quality
+education and all-round development of campus, it has prepared plan to
+extend further programs. Furthermore, DMC has been selected to involve
+in QAA program under the supervision of UGC with well co-operation and
+participation of all stakeholders.
+
+Finally, I would be grateful, if I got constructive suggestions from
+my well-wishers/ stakeholders.  I do promise that I will attempt to
+transfer campus in to a good learning center with well – equipped
+technology.
+
+Thanks ….
 
 
 
-/*All Condition*/
+(Hira Kumar Rai)
 
-Element 1:transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1);
-    opacity: 1;
-Element 2:transform: translate3d(380px, 0px, 0px) scale3d(1, 1, 1);
-    opacity: 1;
-Element 3:transform: translate3d(760px, 0px, 0px) scale3d(1, 1, 1);
-    opacity: 1;
-Element 4:    transform: translate3d(0px, 498px, 0px) scale3d(1, 1, 1);
-    opacity: 1;
-Element 5:    transform: translate3d(380px, 498px, 0px) scale3d(1, 1, 1);
-    opacity: 1;
-Element 6:transform: translate3d(760px, 498px, 0px) scale3d(1, 1, 1);
-    opacity: 1;
-Element 7:    transform: translate3d(0px, 996px, 0px) scale3d(1, 1, 1);
-    opacity: 1;
-Element 8: transform: translate3d(380px, 996px, 0px) scale3d(1, 1, 1);
-    opacity: 1
-Element 9:transform: translate3d(760px, 996px, 0px) scale3d(1, 1, 1);
-    opacity: 1;
-
-
-=> Scale3d(1,1,1)
-=> Opacity : 1
-=> transform:z :0px
-=> 
+Campus Chief
